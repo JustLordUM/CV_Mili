@@ -1,0 +1,1 @@
+Guardá acá tus imágenes (foto.jpg, titulo.jpg, logo1.png, etc.) y llamalas desde index.html con src="images/nombre.jpg".
